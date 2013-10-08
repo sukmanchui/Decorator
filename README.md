@@ -3,6 +3,13 @@ Decorator
 
 UC San Diego templates to help jumpstart your web development. The live demo page is http://ucsd.github.io/Decorator/demo.html.
 
+Goals
+=========
+
+1. HTML5 semantics
+2. Do not interfere with use of other JavaScript libraries
+3. Allow menu content customization
+
 
 Start Contributing
 =========
