@@ -121,7 +121,7 @@ a:hover, a:active, .widget_content a:hover, .widget_content a:active {
     text-decoration: underline;
 }
 a[target="_blank"] {
-    background: url(img/sprite_icon.png) no-repeat scroll right -50px transparent;
+    background: url(../images/sprite_icon.png) no-repeat scroll right -50px transparent;
     padding-right: 20px;
 }
 .nonewwin a[target="_blank"], a[target="_blank"].nonewwin {
@@ -223,7 +223,7 @@ html[xmlns] .clearfix {
     margin-bottom: 1em;
 }
 .msg h4 {
-    background: transparent url(img/sprite_icon.png) 0 0 no-repeat;
+    background: transparent url(../images/sprite_icon.png) 0 0 no-repeat;
     padding-left: 20px;
     text-shadow: none;
 }
@@ -321,7 +321,7 @@ a.button {
     color: #333;
 }
 .search-button {
-    background: transparent url(img/sprite_base.png) -431px -7px no-repeat;
+    background: transparent url(../images/sprite_base.png) -431px -7px no-repeat;
     cursor: pointer;
     width: 27px;
     height: 18px;
@@ -339,7 +339,7 @@ a.button {
 }
 @media screen and (-webkit-min-device-pixel-ratio:2) {
     .search-button {
-    background-image: url(img/sprite_base2x.png);
+    background-image: url(../images/sprite_base2x.png);
     background-size: 500px 120px;
 }
 }@media only screen and (max-width:480px) {
@@ -347,14 +347,14 @@ a.button {
     padding: .5em 1em;
 }
 }.icon {
-    background: transparent url(img/sprite_icon.png) 0 0 no-repeat;
+    background: transparent url(../images/sprite_icon.png) 0 0 no-repeat;
     padding-left: 1.5em;
 }
 *:first-child+html .icon {
     display: inline-block;
 }
 .icon.astrisk {
-    background: transparent url(img/astrisk.png) 0 0 no-repeat;
+    background: transparent url(../images/astrisk.png) 0 0 no-repeat;
 }
 .icon.newwin {
     background-position: 0 -50px;
@@ -594,7 +594,7 @@ html>body form .icon.invalid {
     margin-left: 11em;
 }
 .field .required {
-    background: url(img/astrisk.png) right 0 no-repeat;
+    background: url(../images/astrisk.png) right 0 no-repeat;
 }
 .field_top .label {
     padding-left: 1em;
@@ -603,7 +603,7 @@ html>body form .icon.invalid {
     margin-left: 1em;
 }
 .field_top .required {
-    background: url(img/astrisk.png) left 0 no-repeat;
+    background: url(../images/astrisk.png) left 0 no-repeat;
     padding-left: 1em;
 }
 .field_left .label {
@@ -616,7 +616,7 @@ html>body form .icon.invalid {
     margin-left: 11.5em;
 }
 .field_left .required {
-    background: url(img/astrisk.png) left 0 no-repeat;
+    background: url(../images/astrisk.png) left 0 no-repeat;
     padding-left: 1em;
 }
 @media only screen and (max-width:640px) {
@@ -796,7 +796,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
     text-transform: uppercase;
 }
 #tdr_title {
-    background: url(img/bg.jpg) repeat-x;
+    background: url(../images/bg.jpg) repeat-x;
 }
 #tdr_title_content {
     height: 78px;
@@ -807,7 +807,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
     position: absolute;
     right: 0;
     top: 20px;
-    background: transparent url(img/sprite_base.png) 0 -3px no-repeat;
+    background: transparent url(../images/sprite_base.png) 0 -3px no-repeat;
 }
 #tdr_title_content form {
     margin-bottom: 0;
@@ -876,7 +876,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
     margin-right: 2px;
 }
 #tdr_title_menu_link {
-    background: url("img/sprite_base.png") no-repeat scroll -461px -47px transparent;
+    background: url("../images/sprite_base.png") no-repeat scroll -461px -47px transparent;
     right: 0;
 }
 .noMenu #tdr_title_search_link {
@@ -899,7 +899,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
 }
 }@media screen and (-webkit-min-device-pixel-ratio:2) {
     #tdr_title_ucsd_title, #tdr_title_search_link, #tdr_title_menu_link {
-    background-image: url(img/sprite_base2x.png);
+    background-image: url(../images/sprite_base2x.png);
     background-size: 500px 120px;
 }
 }#tdr_nav {
@@ -972,7 +972,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
     border-bottom: solid 1px #9fb3bf;
 }
 #tdr_nav ul li.blink_nav_item a, #tdr_nav ul li.blink_nav_item span {
-    background: transparent url(img/blink_nav.png) 0 2px no-repeat;
+    background: transparent url(../images/blink_nav.png) 0 2px no-repeat;
     background-color: #e3edf8;
     background-color: rgba(255, 255, 255, 0.4);
     text-indent: -9999px;
@@ -1101,7 +1101,7 @@ body.wide #tdr_login #tdr_title #tdr_search #tdr_crumbs #tdr_content {
     text-transform: capitalize;
 }
 #tdr_crumbs li a {
-    background: url(img/sprite_icon.png) no-repeat scroll right 5px transparent;
+    background: url(../images/sprite_icon.png) no-repeat scroll right 5px transparent;
     padding-right: .8em;
     text-decoration: none;
 }
@@ -1272,7 +1272,7 @@ div.styled h3 {
     text-decoration: underline;
 }
 #tdr_footer_content {
-    background: transparent url(img/sprite_base.png) right -74px no-repeat;
+    background: transparent url(../images/sprite_base.png) right -74px no-repeat;
     font-size: 90%;
     text-align: left;
     padding: 1em 0;
@@ -1294,7 +1294,7 @@ div.styled h3 {
 }
 @media screen and (-webkit-min-device-pixel-ratio:2) {
     #tdr_footer_content {
-    background-image: url(img/sprite_base2x.png);
+    background-image: url(../images/sprite_base2x.png);
     background-size: 500px 120px;
 }
 }@media only screen and (max-width:640px) {
@@ -1326,10 +1326,10 @@ div.loading {
     clear: both;
     height: 32px;
     text-indent: -9999px;
-    background: url(img/icon_loading.gif) center no-repeat;
+    background: url(../images/icon_loading.gif) center no-repeat;
 }
 span.loading {
-    background: url(img/icon_loading_inline.gif) right no-repeat;
+    background: url(../images/icon_loading_inline.gif) right no-repeat;
     padding-right: 20px;
 }
 @media print {
