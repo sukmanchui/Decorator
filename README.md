@@ -6,7 +6,8 @@ UC San Diego templates to help jumpstart your web development. The live demo pag
 Goals
 =========
 
-1. HTML5 semantics
+1. Provide UCSD application standards and guidelines
+2. Utilize HTML5 semantics
 2. Do not interfere with use of other JavaScript libraries
 3. Allow menu content customization
 
